@@ -1,0 +1,8 @@
+StudentID,Math_Score,Science_Score,English_Score,Study_Hours,Attendance_Rate
+1,85,90,78,10,0.95
+2,72,65,80,8,0.85
+3,90,92,88,12,0.98
+4,60,55,62,5,0.70
+5,78,80,75,9,0.90
+16,77,,79,9,0.89
+17,NaN,80,81,10,0.90

@@ -1,0 +1,1 @@
+# Store .png or .svg icons here (e.g., app_icon.png)
